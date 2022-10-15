@@ -1,0 +1,14 @@
+*{ /*set to all tags*/
+    margin: 0; /* extern space*/
+    padding: 0; /*intern space*/
+    box-sizing: border-box;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+}
